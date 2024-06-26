@@ -1,5 +1,3 @@
-instrucciones del proyecto
+### Ejersicio taller GIT
 
--. U = Untracked ---- No rastreados
--. A = ADDED ---- Agregado/vigilado por git
-otra modificacion
+se aprenderá comandos básicos de GIT
